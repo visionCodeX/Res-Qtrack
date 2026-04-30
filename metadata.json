@@ -1,0 +1,12 @@
+{
+  "name": "ResQ-Track",
+  "description": "A high-precision hybrid coordinate tracking system for landslide rescue operations, coordinating rescuers, drones, and IoT sensors in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real-time Tracking",
+    "Geospatial Visualization",
+    "Disaster Management"
+  ]
+}
